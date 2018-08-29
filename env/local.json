@@ -1,0 +1,9 @@
+{
+    "MONGO": {
+        "host"     : "localhost",
+        "user"     : "admin",
+        "password" : "root",
+        "port"     : "27017",
+        "database" : "testdb"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "PORT": "3000",
+    "HOST": "0.0.0.0",
+     "EMAIL": {
+      "from": "youremail@gmail.com",
+      "password": "your password",
+      "subject": "Reset password",
+      "service": "gmail"
+     }
+}
