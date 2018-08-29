@@ -33,10 +33,13 @@ FORGOT PASSWORD :
  }
  
 RESET PASSWORD :
+
+ // token sent to email id
+ //here password is the new password
  
  {
  "email":"",
- "token":"",  // token sent to email id
- "password":"" //here password is the new password
+ "token":"",  
+ "password":"" 
  }
  
