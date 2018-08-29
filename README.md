@@ -11,27 +11,28 @@ Since this app emails a reset token for the password reset feature , please prov
 
 Use POSTMAN to test the API's 
 
-REGISTER API 
+API PAYLOADS :
 
-PAYLOAD = {
+REGISTER :
+{
 "name": "",
 "email": "",
 "password":""
 }
 
-LOGIN API 
+LOGIN :
 {
 "email" : "",
 "password":""
 }
 
-forgot password api
+FORGOT PASSWORD :
 
 {
  "email":""
  }
  
- reset password api
+RESET PASSWORD :
  
  {
  "email":"",
